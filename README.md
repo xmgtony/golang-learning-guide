@@ -1,2 +1,2 @@
 # golang-learning-guide
-全网最全最详细的golang学习指南。
+全网质量最高的golang学习指南。
