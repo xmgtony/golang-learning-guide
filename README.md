@@ -4,4 +4,4 @@
 从持续更新中......
 
 ## web编程
-[go web 编程]（https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/）
+[go web 编程](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/)
